@@ -1,0 +1,63 @@
+﻿body {
+    width: 600px;
+    height: 500px;
+    margin: auto;
+}
+
+.topIamge {
+    margin-top: 20px;
+}
+
+.topHeading {
+    font-weight: bold;
+    background-color: lightgray;
+    border: 1px solid lightgrey;
+    margin-top: 20px;
+}
+
+.container {
+    background-color: white;
+    padding: 5px;
+    border: 1px solid lightgrey;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.leftMargin {
+    display: inline-block;
+    text-align: right;
+    margin-top: 8px;
+    margin-left: 6px;
+    box-sizing: border-box;
+    margin-right: 130px;
+    color: darkred;
+}
+
+.required {
+    color: darkred;
+}
+
+.input[type=text] {
+    width: 180px;
+    padding: 12px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    height: 10px;
+}
+.mobile {
+    width: 40px;
+}
+
+.contInfo {
+    width: 300px;
+    padding: 12px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    height: 10px;
+}
+.button {
+    text-align: center;
+    display: inline-block;
+    margin-left: 200px;
+    margin-top:20px;
+}
