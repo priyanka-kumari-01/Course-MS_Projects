@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KumariP_2097792_Converter", "KumariP_2097792_Converter\KumariP_2097792_Converter.csproj", "{CDBE34F8-F033-4A32-9C99-7F45422B9D94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBE34F8-F033-4A32-9C99-7F45422B9D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBE34F8-F033-4A32-9C99-7F45422B9D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBE34F8-F033-4A32-9C99-7F45422B9D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBE34F8-F033-4A32-9C99-7F45422B9D94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3575ED6-D934-4FDB-9F71-475B22633F29}
+	EndGlobalSection
+EndGlobal
