@@ -1,1 +1,2 @@
-# Course-Projects
+# CSCI 1370: SOFTWARE DEVELOPMENT WITH JAVA
+
